@@ -55,6 +55,7 @@ The app uses NASA’s public **DEMO_KEY** by default.
 ## ▶️ How to Run the App
 
 1. Clone the repository:
+   https://github.com/HAFFIC001/APODApp
    ```bash
 
 Open the project:
