@@ -68,3 +68,41 @@ Select an iOS Simulator (e.g., iPhone 15 / 16 Pro)
 Run the app:
 
 Click ▶️ Run
+
+🧪 Error Handling
+
+Network failure handling
+
+Invalid API response handling
+
+Invalid date selection prevention
+
+Graceful empty/missing content handling
+
+🌙 Dark Mode
+
+The app supports Dark Mode automatically via SwiftUI.
+
+🔮 Possible Enhancements
+
+(Not implemented but easy to extend)
+
+Image caching
+
+Favorites (local persistence)
+
+Share APOD image
+
+Search by date range
+
+Unit tests for ViewModels
+
+👨‍💻 Author
+
+Aryan Gupta
+iOS Developer
+Swift | SwiftUI | MVVM | Clean Architecture
+
+📄 License
+
+This project is for assessment and educational purposes only.
