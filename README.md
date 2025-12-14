@@ -56,7 +56,7 @@ The app uses NASA’s public **DEMO_KEY** by default.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/APODApp.git
+
 Open the project:
 
 bash
